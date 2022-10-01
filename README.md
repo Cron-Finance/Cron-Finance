@@ -1,6 +1,6 @@
 ## Hello World 👋 🌏
 
-🛠 We're building a novel on-chain trade execution engine called [TWAMM](https://www.paradigm.xyz/2021/07/twamm) for permissionless, transparent & gas efficient large trades.
+🛠 We're building a novel on-chain trade execution engine called [TWAMM](https://www.paradigm.xyz/2021/07/twamm) for permissionless, transparent & gas efficient large token swaps.
 
 ## Private (invite only) codebase
 - https://github.com/Cron-Finance/twamm
