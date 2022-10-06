@@ -5,7 +5,7 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 - https://github.com/Cron-Finance/twamm
 
 ## Read our monthly updates & tweet threads
-- *09/2022*: **feature completion** ([blog](https://mirror.xyz/0x70626a.eth/hgUs3e_PwLZuEWpfKEYFq4mxG58WYp8VP4pJ7Bo9kOU)), [tweet thread](https://twitter.com/0x70626a/status/1578070684911157248))
+- *09/2022*: **feature completion** ([blog](https://mirror.xyz/0x70626a.eth/hgUs3e_PwLZuEWpfKEYFq4mxG58WYp8VP4pJ7Bo9kOU), [tweet thread](https://twitter.com/0x70626a/status/1578070684911157248))
 - *08/2022*: **automatic mev reinvestment** ([blog](https://mirror.xyz/0x70626a.eth/lfB7VBFqcCvQAK4cdzX_cZBNfL5j2j0CT8Sc_p_gkfE), [tweet thread](https://twitter.com/0x70626a/status/1567928105360056324))
 - *07/2022*: **mev incentives & code release** ([blog](https://mirror.xyz/0x70626a.eth/OkBI1zCqR69LrdKIkfqFyfMvg9mBcm3mzczKckCDxLw), [tweet thread](https://twitter.com/0x70626a/status/1555256848382558208))
 - *06/2022*: **misunderstood advantages** ([blog](https://mirror.xyz/0x70626a.eth/-xB9M5a0J4K_nRCAmTNxmRUPR5VvjGlbZm5J_j_8jYQ), [tweet thread](https://twitter.com/0x70626a/status/1545452568230465537))
