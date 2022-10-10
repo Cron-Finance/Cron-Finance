@@ -4,7 +4,7 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 ## Codebase (invite only)
 - https://github.com/Cron-Finance/twamm
 
-## Read our monthly updates & tweet threads
+## Monthly updates & tweet threads
 - *09/2022*: **feature completion** ([blog](https://mirror.xyz/0x70626a.eth/hgUs3e_PwLZuEWpfKEYFq4mxG58WYp8VP4pJ7Bo9kOU), [tweet thread](https://twitter.com/0x70626a/status/1578070684911157248))
 - *08/2022*: **automatic mev reinvestment** ([blog](https://mirror.xyz/0x70626a.eth/lfB7VBFqcCvQAK4cdzX_cZBNfL5j2j0CT8Sc_p_gkfE), [tweet thread](https://twitter.com/0x70626a/status/1567928105360056324))
 - *07/2022*: **mev incentives & code release** ([blog](https://mirror.xyz/0x70626a.eth/OkBI1zCqR69LrdKIkfqFyfMvg9mBcm3mzczKckCDxLw), [tweet thread](https://twitter.com/0x70626a/status/1555256848382558208))
@@ -17,7 +17,7 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 - *12/2021*: **sales rate research & simple arbitrage bots** ([blog](https://mirror.xyz/0x70626a.eth/SIpA5Z4M6VYqCfvSKpTpRFw6bftE2ghi7fc7TA4c3LE))
 - *11/2021*: **infrastructure & testing exploration** ([blog](https://mirror.xyz/0x70626a.eth/0uIph6x5knS_QRfG2mluFb-83P9NF1w01JQ-GNjCgVY))
 
-## Read our in-depth research
+## In-depth research
 - **In depth parameter and gas cost research** ([blog](https://mirror.xyz/0slippage.eth/5zKJW4Zx9zYHpB4jNln16HuU8d8EtawmA17usNfIje4))
 - **Algorithm optimization & approximation analysis** ([blog](https://mirror.xyz/0slippage.eth/qvIbkWLnxXpwuM6DZs8EGTCWAymUqUIs77Chn58tLPA))
 - **Optimizing TWAMM gas** ([blog](https://mirror.xyz/0slippage.eth/IqZv6lfVyAZtNwtkuKu8XQJsFXw7Gg7THNdtLtk8j70))
