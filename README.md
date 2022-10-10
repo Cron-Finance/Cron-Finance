@@ -17,7 +17,7 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 - *12/2021*: **sales rate research & simple arbitrage bots** ([blog](https://mirror.xyz/0x70626a.eth/SIpA5Z4M6VYqCfvSKpTpRFw6bftE2ghi7fc7TA4c3LE))
 - *11/2021*: **infrastructure & testing exploration** ([blog](https://mirror.xyz/0x70626a.eth/0uIph6x5knS_QRfG2mluFb-83P9NF1w01JQ-GNjCgVY))
 
-## In-depth research
+## In-depth technical research
 - **In depth parameter and gas cost research** ([blog](https://mirror.xyz/0slippage.eth/5zKJW4Zx9zYHpB4jNln16HuU8d8EtawmA17usNfIje4))
 - **Algorithm optimization & approximation analysis** ([blog](https://mirror.xyz/0slippage.eth/qvIbkWLnxXpwuM6DZs8EGTCWAymUqUIs77Chn58tLPA))
 - **Optimizing TWAMM gas** ([blog](https://mirror.xyz/0slippage.eth/IqZv6lfVyAZtNwtkuKu8XQJsFXw7Gg7THNdtLtk8j70))
