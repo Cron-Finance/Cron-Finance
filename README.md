@@ -5,6 +5,7 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 - https://github.com/Cron-Finance/twamm
 
 ## Monthly updates & tweet threads
+- *10/2022*: **building a better financial system** ([blog](https://mirror.xyz/0x70626a.eth/GEzUrD0dlV9jhayvMLAZSmRqa-VR_0h8NFY2vhrPIco), [tweet thread](https://twitter.com/0x70626a/status/1590779828516818945))
 - *09/2022*: **feature completion** ([blog](https://mirror.xyz/0x70626a.eth/hgUs3e_PwLZuEWpfKEYFq4mxG58WYp8VP4pJ7Bo9kOU), [tweet thread](https://twitter.com/0x70626a/status/1578070684911157248))
 - *08/2022*: **automatic mev reinvestment** ([blog](https://mirror.xyz/0x70626a.eth/lfB7VBFqcCvQAK4cdzX_cZBNfL5j2j0CT8Sc_p_gkfE), [tweet thread](https://twitter.com/0x70626a/status/1567928105360056324))
 - *07/2022*: **mev incentives & code release** ([blog](https://mirror.xyz/0x70626a.eth/OkBI1zCqR69LrdKIkfqFyfMvg9mBcm3mzczKckCDxLw), [tweet thread](https://twitter.com/0x70626a/status/1555256848382558208))
