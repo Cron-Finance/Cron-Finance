@@ -5,6 +5,7 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 - https://github.com/Cron-Finance/twamm
 
 ## Monthly updates & tweet threads
+- *02/2023*: **numerical analysis of non-atomic trades** ([blog](https://mirror.xyz/0x70626a.eth/09F1-b9Li78Im2ZFdTE9sFFDZrZs2AQ20hf5VOrtou0), [tweet thread](https://twitter.com/0x70626a/status/1635707779100082177))
 - *01/2023*: **successful audit with 0 criticals** ([blog](https://mirror.xyz/0x70626a.eth/RpI_Ip582UOvCAyTQCKtbF6pmtQnGA7ZwVmzFsSQVIA), [tweet thread](https://twitter.com/0x70626a/status/1625194352036433920))
 - *12/2022*: **numerical analysis & system review** ([blog](https://mirror.xyz/0x70626a.eth/ercBNPMRJzo4t9Z6pSUTo_SLJDZ8nVb1yJpWJc7Xzz8), [tweet thread](https://twitter.com/0x70626a/status/1612892278087110656))
 - *11/2022*: **testing, analysis, & towards prod** ([blog](https://mirror.xyz/0x70626a.eth/jZ0u5MnJSyIT6YxDzX-t661A2XkLY26IUX4MSBUcEAc), [tweet thread](https://twitter.com/0x70626a/status/1601291622712414210))
