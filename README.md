@@ -1,29 +1,20 @@
 ## Hello World 👋 🌏
 We're building a novel on-chain trade execution engine called [TWAMM](https://www.paradigm.xyz/2021/07/twamm) for permissionless, transparent & gas efficient large token swaps.
 
-## Codebase (invite only)
-- https://github.com/Cron-Finance/twamm
+## Documentation
+- https://docs.cronfi.com
 
-## Monthly updates & tweet threads
-- *02/2023*: **numerical analysis of non-atomic trades** ([blog](https://mirror.xyz/0x70626a.eth/09F1-b9Li78Im2ZFdTE9sFFDZrZs2AQ20hf5VOrtou0), [tweet thread](https://twitter.com/0x70626a/status/1635707779100082177))
-- *01/2023*: **successful audit with 0 criticals** ([blog](https://mirror.xyz/0x70626a.eth/RpI_Ip582UOvCAyTQCKtbF6pmtQnGA7ZwVmzFsSQVIA), [tweet thread](https://twitter.com/0x70626a/status/1625194352036433920))
-- *12/2022*: **numerical analysis & system review** ([blog](https://mirror.xyz/0x70626a.eth/ercBNPMRJzo4t9Z6pSUTo_SLJDZ8nVb1yJpWJc7Xzz8), [tweet thread](https://twitter.com/0x70626a/status/1612892278087110656))
-- *11/2022*: **testing, analysis, & towards prod** ([blog](https://mirror.xyz/0x70626a.eth/jZ0u5MnJSyIT6YxDzX-t661A2XkLY26IUX4MSBUcEAc), [tweet thread](https://twitter.com/0x70626a/status/1601291622712414210))
-- *10/2022*: **building a better financial system** ([blog](https://mirror.xyz/0x70626a.eth/GEzUrD0dlV9jhayvMLAZSmRqa-VR_0h8NFY2vhrPIco), [tweet thread](https://twitter.com/0x70626a/status/1590779828516818945))
-- *09/2022*: **feature completion** ([blog](https://mirror.xyz/0x70626a.eth/hgUs3e_PwLZuEWpfKEYFq4mxG58WYp8VP4pJ7Bo9kOU), [tweet thread](https://twitter.com/0x70626a/status/1578070684911157248))
-- *08/2022*: **automatic mev reinvestment** ([blog](https://mirror.xyz/0x70626a.eth/lfB7VBFqcCvQAK4cdzX_cZBNfL5j2j0CT8Sc_p_gkfE), [tweet thread](https://twitter.com/0x70626a/status/1567928105360056324))
-- *07/2022*: **mev incentives & code release** ([blog](https://mirror.xyz/0x70626a.eth/OkBI1zCqR69LrdKIkfqFyfMvg9mBcm3mzczKckCDxLw), [tweet thread](https://twitter.com/0x70626a/status/1555256848382558208))
-- *06/2022*: **misunderstood advantages** ([blog](https://mirror.xyz/0x70626a.eth/-xB9M5a0J4K_nRCAmTNxmRUPR5VvjGlbZm5J_j_8jYQ), [tweet thread](https://twitter.com/0x70626a/status/1545452568230465537))
-- *05/2022*: **protocol currency pegs** ([blog](https://mirror.xyz/0x70626a.eth/mldjNH0yCKPG7DHc-ggROKdNBGpVMwNeYyXK-BgFUUo), [tweet thread](https://twitter.com/0x70626a/status/1534188613881192449))
-- *04/2022*: **gas gas gas optimizations** ([blog](https://mirror.xyz/0x70626a.eth/_zcW9WLiARYp9DxGt82k_nf0OnS3cUKHzYh_84ez95Y), [tweet thread](https://twitter.com/0x70626a/status/1523718164437118977))
-- *03/2022*: **benchmarking, algorithmic & ddos analysis** ([blog](https://mirror.xyz/0x70626a.eth/-PmNRMEXIQK4qO7jQo5EbofwfcvbEPERLhmOKOlVoc0), [tweet thread](https://twitter.com/0x70626a/status/1514251662923284491))
-- *02/2022*: **gas optimization & TWAMM failure mode research** ([blog](https://mirror.xyz/0x70626a.eth/yOP-PpK8pWE15SQ_Lte2srD_3lbqx89D5xFKfaVic8Y), [tweet thread](https://twitter.com/0x70626a/status/1501959053622267904))
-- *01/2022*: **end-to-end TWAMM simulator** ([blog](https://mirror.xyz/0x70626a.eth/SzxME01JrrVRmu_H9q_07kZCBLzzHyxV_fmp1WmZvWo), [tweet thread](https://twitter.com/0x70626a/status/1491833197818228739))
-- *12/2021*: **sales rate research & simple arbitrage bots** ([blog](https://mirror.xyz/0x70626a.eth/SIpA5Z4M6VYqCfvSKpTpRFw6bftE2ghi7fc7TA4c3LE))
-- *11/2021*: **infrastructure & testing exploration** ([blog](https://mirror.xyz/0x70626a.eth/0uIph6x5knS_QRfG2mluFb-83P9NF1w01JQ-GNjCgVY))
+## Codebase
+- https://github.com/Cron-Finance/v1-core
+- https://github.com/Cron-Finance/v1-periphery
 
-## In-depth technical research
-- **In depth parameter and gas cost research** ([blog](https://mirror.xyz/0slippage.eth/5zKJW4Zx9zYHpB4jNln16HuU8d8EtawmA17usNfIje4))
-- **Algorithm optimization & approximation analysis** ([blog](https://mirror.xyz/0slippage.eth/qvIbkWLnxXpwuM6DZs8EGTCWAymUqUIs77Chn58tLPA))
-- **Optimizing TWAMM gas** ([blog](https://mirror.xyz/0slippage.eth/IqZv6lfVyAZtNwtkuKu8XQJsFXw7Gg7THNdtLtk8j70))
-- **TWAMM attack vectors** ([blog](https://mirror.xyz/0slippage.eth/AMvO7nUgpoP9Ue3hEm7iuA9V1d97pSfcbe1bJdo1lbo))
+## Blog
+### Monthly Updates
+- https://mirror.xyz/0x70626a.eth
+### Technical Deepdive
+- https://mirror.xyz/0slippage.eth
+
+## Social Media
+- Protocol: https://twitter.com/cronfinance
+- 0x70626a: https://twitter.com/0x70626a
+- 0slippage: https://twitter.com/0slippage
