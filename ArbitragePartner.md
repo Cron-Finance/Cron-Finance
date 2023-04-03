@@ -48,7 +48,7 @@ and scale.
 
 Example Partner Swap Function Call (Preliminary)
 --------------------------------------------------------------------------------
-```
+```solidity
     uint256 amountIn = ???;                // The amount of tokenIn being sold
                                            // to the pool.
     address tokenIn = ???;                 // The ERC20 contract address of one
@@ -105,7 +105,7 @@ Example Partner Swap Function Call (Preliminary)
 Arbitrage List Interface  (Preliminary)
 --------------------------------------------------------------------------------
 
-```
+```solidity
 // (c) Copyright 2023, Bad Pumpkin Inc. All Rights Reserved
 //
 // SPDX-License-Identifier: BUSL-1.1
@@ -168,7 +168,7 @@ allows the deployer to add and remove arbitrageurs and configure the list as
 needed. Other possibilities are possible and encouraged to suite the needs of
 the Arbitrage Partner.
 
-```
+```solidity
 // (c) Copyright 2023, Bad Pumpkin Inc. All Rights Reserved
 //
 // SPDX-License-Identifier: BUSL-1.1
