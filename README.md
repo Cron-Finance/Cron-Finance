@@ -5,8 +5,10 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 - https://docs.cronfi.com
 
 ## Codebase
-- https://github.com/Cron-Finance/v1-core
-- https://github.com/Cron-Finance/v1-periphery
+- https://github.com/Cron-Finance/v1-twamm
+
+## Ideas to build
+- https://docs.cronfi.com/twamm/overview/builder-ideas
 
 ## Blog
 ### Monthly Updates
