@@ -4,11 +4,14 @@ We're building a novel on-chain trade execution engine called [TWAMM](https://ww
 ## Documentation
 - https://docs.cronfi.com
 
+#### Deployment Addresses
+- https://docs.cronfi.com/twamm/refrences/deployment-addresses
+
+#### Ideas to build
+- https://docs.cronfi.com/twamm/overview/builder-ideas
+
 ## Codebase
 - https://github.com/Cron-Finance/v1-twamm
-
-## Ideas to build
-- https://docs.cronfi.com/twamm/overview/builder-ideas
 
 ## Blog
 ### Monthly Updates
